@@ -16,4 +16,4 @@ Kontrol Perulangan
 <h>flowchart<h>
 
 ![gambar](fc.jpeg)
-
+1[gambar](modulpraktikum2.jpg)

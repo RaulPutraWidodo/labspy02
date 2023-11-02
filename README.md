@@ -6,9 +6,12 @@ Elif Singkatan dari "else if". Ini digunakan untuk memeriksa kondisi lain jika k
 
 Else Blok kode di bawah else akan dijalankan jika semua kondisi dalam if dan elif sebelumnya bernilai False.
 
-LANGKAH-LANGKAH PERULANGAN
+<h>LANGKAH-LANGKAH PERULANGAN<h>
 Perulangan dengan "untuk"
 
 Perulangan dengan sementara
 
 Kontrol Perulangan
+
+<h>flowchart<h>
+![gambar].(screenshots)

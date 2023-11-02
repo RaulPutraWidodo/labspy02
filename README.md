@@ -1,4 +1,5 @@
-LANGKAH LANGKAH STRUKTUR KONDISI
+<h>LANGKAH LANGKAH STRUKTUR KONDISI<h>
+
 if adalah struktur kondisi dasar ia mengeksekusi blok kode yang ada di bawahnya hanya jika kondisi yang diberikan bernilai True.
 
 Elif Singkatan dari "else if". Ini digunakan untuk memeriksa kondisi lain jika kondisi dalam jika sebelumnya bernilai False.

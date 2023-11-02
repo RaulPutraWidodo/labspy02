@@ -15,4 +15,4 @@ Kontrol Perulangan
 
 <h>flowchart<h>
 
-![gambar].(screenshots)
+![gambar].(fc.jpeg)
